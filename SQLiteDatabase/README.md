@@ -373,20 +373,20 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT:
+![Screenshot_20221031_135831](https://user-images.githubusercontent.com/75235334/198965451-29e0fd52-a493-4d0e-9721-7f4986880cc8.png)
 
-![WhatsApp Image 2022-09-20 at 3 38 23 PM](https://user-images.githubusercontent.com/75235455/191968079-fcd2caae-7dd2-4812-8b9e-88cd87248493.jpeg)
 
 ### Insert
-![WhatsApp Image 2022-09-20 at 3 38 24 PM (4)](https://user-images.githubusercontent.com/75235455/191968179-661dbf1a-edba-42d2-9093-b873b912f67d.jpeg)
+![Screenshot (3)](https://user-images.githubusercontent.com/75235334/198966320-76915969-b869-4fd4-9aee-4efb108ddc4b.png)
 
 
 ### Fetch
-![WhatsApp Image 2022-09-20 at 3 38 24 PM (5)](https://user-images.githubusercontent.com/75235455/191968232-026b1432-c4cf-43c9-a0d5-034cb75f712e.jpeg)
+![Screenshot (4)](https://user-images.githubusercontent.com/75235334/198966326-bd666465-c708-4965-a9ea-864536afaafe.png)
 
 
 
 ### Update
-![WhatsApp Image 2022-09-20 at 3 38 24 PM (3)](https://user-images.githubusercontent.com/75235455/191968264-9395a87f-249a-4483-862e-7ebaf02238ee.jpeg)
+![Screenshot (2)](https://user-images.githubusercontent.com/75235334/198966295-9c916c90-a3dd-4956-88b8-d7ad06ec9320.png)
 
 
 
